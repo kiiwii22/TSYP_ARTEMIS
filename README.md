@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Modules](#modules)
 * [Design](#design)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
