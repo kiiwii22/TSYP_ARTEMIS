@@ -23,8 +23,8 @@ This project presents Scane a HAAS (Human Augmentation and  Assistance System) d
 
 ## Technologies Used
  - Embedded C
- - Wirless data exchange
- - GUI (graphical user interface)
+ - Drilling mechanism
+ - Sample storing mechanism
 
 
 
