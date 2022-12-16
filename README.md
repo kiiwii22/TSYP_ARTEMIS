@@ -5,8 +5,8 @@
 note: this is an AI generated image
 
 ## Table of Contents
+* [Motivation](#Motivation)
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Design](#design)
 * [Project Status](#project-status)
@@ -15,16 +15,29 @@ note: this is an AI generated image
 
 
 
+## Motivation
+To really grasp and get hold of the problems that a moon landing presents, we had to take a detailed look at previous Lunar missions.
+Looking back at multipule Apollo missions, we've noticed two main inconvinieces that astronauts faced: 
+
+1- The inefficiency of sampling tools: -It took alot of time and effort to breach the moons surface (about 50 hammer blows).
+				       -The sample collecting task required two astronauts ( one to collect the samples and the other to hold the sample collection bag).
+
+![image (2)](https://user-images.githubusercontent.com/76494996/208190415-f0698917-8b26-48ba-ab5c-e5733be1a1ad.png)
+
+
+
+2- The lack of balance support for astronauts: -The level of gravity on the moon is about 17 percent of Earth's gravity, which is just barely strong enough to provide adequate cues for astronauts to walk proprely .
+					       -Space suits are generally heavy and hinder movement causing falls on previous cases.
+            
+![image (3)](https://user-images.githubusercontent.com/76494996/208190457-fbc68500-92e0-459b-b15c-0f2184c09f3d.png)
+
+
 ## General Information
 This project presents Scane a HAAS (Human Augmentation and  Assistance System) designed to aid astronauts with sample collecting and balance during their ARTEMIS Moon mission.
 
 
 ![image](https://user-images.githubusercontent.com/76494996/208182262-f5ec6f55-9304-4621-b6a8-80363424379b.png)
 
-## Technologies Used
- - Embedded C
- - Drilling mechanism
- - Sample storing mechanism
 
 
 
