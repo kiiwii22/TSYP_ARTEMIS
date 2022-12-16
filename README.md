@@ -52,6 +52,7 @@ This project presents Scane a HAAS (Human Augmentation and  Assistance System) d
 ## Design
 ![image](https://user-images.githubusercontent.com/76494996/208192187-f507910f-2e71-4ff5-9509-157c3e7ef184.png)
 
+released in solidworks
 
 ## Project Status
 Project is: _in progress_ . Currently in research and prototyping phase.
