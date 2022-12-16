@@ -6,7 +6,7 @@ note: this is an AI generated image
 
 ## Table of Contents
 * [Motivation](#Motivation)
-* [General Info](#general-information)
+* [Solution](#Solution)
 * [Features](#features)
 * [Design](#design)
 * [Project Status](#project-status)
@@ -32,7 +32,7 @@ Looking back at multipule Apollo missions, we've noticed two main inconvinieces 
 ![image (3)](https://user-images.githubusercontent.com/76494996/208190457-fbc68500-92e0-459b-b15c-0f2184c09f3d.png)
 
 
-## General Information
+## Solution
 This project presents Scane a HAAS (Human Augmentation and  Assistance System) designed to aid astronauts with sample collecting and balance during their ARTEMIS Moon mission.
 
 
