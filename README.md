@@ -14,6 +14,8 @@
 
 ## General Information
 This project presents Scane a HAAS (Human Augmentation and  Assistance System) designed to aid astronauts with sample collecting and balance during their ARTEMIS Moon mission.
+
+
 ![image](https://user-images.githubusercontent.com/76494996/208176663-d4478718-ec83-4cbe-a8ea-c07d9bacea6b.png)
 credit: DALL.E
 
