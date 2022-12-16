@@ -25,16 +25,17 @@ credit: DALL.E
  - GUI (graphical user interface)
 
 
-## Features
 
+## Features
+![image2](https://user-images.githubusercontent.com/120517910/208179900-75ecd049-0265-4924-8715-8b961d237f10.png)
 - Drilling - Allowing more access to deeper test peices of the moon.
 - Suction - Automating the storing of samples.
 - Storing - External bag making sampling a one man job.
-
+- Human Machine interface - Easy control and monitoring of the gadget.
 
 
 ## Design
-![Example image](./img/image.png)
+![image](./img/image.png)
 
 
 ## Project Status
