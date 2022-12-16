@@ -1,6 +1,9 @@
 # Scane
 > A HAAS for the future ARTEMIS missions.
 
+![image](https://user-images.githubusercontent.com/76494996/208182380-aa39f63d-af44-4096-9dbd-bd90fdef66b8.png)
+note: this is an AI generated image
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -16,8 +19,7 @@
 This project presents Scane a HAAS (Human Augmentation and  Assistance System) designed to aid astronauts with sample collecting and balance during their ARTEMIS Moon mission.
 
 
-![image](https://user-images.githubusercontent.com/76494996/208176663-d4478718-ec83-4cbe-a8ea-c07d9bacea6b.png)
-credit: DALL.E
+![image](https://user-images.githubusercontent.com/76494996/208182262-f5ec6f55-9304-4621-b6a8-80363424379b.png)
 
 ## Technologies Used
  - Embedded C
