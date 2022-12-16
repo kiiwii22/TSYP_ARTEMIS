@@ -18,22 +18,18 @@ This project presents Scane a HAAS (Human Augmentation and  Assistance System) d
 
 
 ## Technologies Used
- - Embedded Linux
+ - Embedded C
  - Wirless data exchange
  - GUI (graphical user interface)
 
 
 ## Features
 
-- Interactive interface
-- Automated labeling of samples
-- Automated wrapping of samples
-
-## Modules
-![Example image](./img/image.png)
 - Drilling - Allowing more access to deeper test peices of the moon.
 - Suction - Automating the storing of samples.
 - Storing - External bag making sampling a one man job.
+
+
 
 ## Design
 ![Example image](./img/image.png)
