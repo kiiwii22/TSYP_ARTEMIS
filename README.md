@@ -5,8 +5,8 @@
 note: this is an AI generated image
 
 ## Table of Contents
-* [Motivation](#Motivation)
-* [Solution](#Solution)
+* [Motivation](#motivation)
+* [Solution](#solution)
 * [Features](#features)
 * [Design](#design)
 * [Project Status](#project-status)
