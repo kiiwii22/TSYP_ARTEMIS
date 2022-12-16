@@ -5,6 +5,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Modules](#modules)
 * [Design](#design)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
@@ -28,6 +29,11 @@ This project presents Scane a HAAS (Human Augmentation and  Assistance System) d
 - Automated labeling of samples
 - Automated wrapping of samples
 
+## Modules
+![Example image](./img/image.png)
+- Drilling - Allowing more access to deeper test peices of the moon.
+- Suction - Automating the storing of samples.
+- Storing - External bag making sampling a one man job.
 
 ## Design
 ![Example image](./img/image.png)
